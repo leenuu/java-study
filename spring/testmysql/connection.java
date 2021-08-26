@@ -1,4 +1,4 @@
-package testmysql;
+package spring.testmysql;
 import java.sql.*;
 
 public class connection 
