@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.basic;
 
 public class child extends parent
 {
